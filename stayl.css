@@ -1,0 +1,89 @@
+/* hedder start */
+header{
+    padding: 15px 0;
+}
+.manu {}
+.manu ul li a{
+    font-size: 16px;
+    font-weight: 700;
+}
+.manu ul li a:hover{
+    color: red !important;
+}
+/* heddar end */
+/* benar start */
+.benar{
+    background-image: url(../img/laptop-336704_640.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 500px;
+
+}
+.container{
+
+}
+.b_contain{
+    margin: 150px 0;
+    width: 43%;
+    
+    float: right;
+}
+.b_contain h1{
+   margin: 0 0 20px;
+}
+.b_contain p{
+    margin: 0 0 30px;
+    font-size: 16px;
+    font-weight: 400;
+    color: grey;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+}
+.b_contain button{
+    font-size: 16px;
+    width: 200px;
+    height: 50px;
+    color: wheat;
+    background-color: rgb(9, 214, 214);
+    letter-spacing: 1px;
+    border: none;
+}
+/* benar end */
+/* about start */
+.about{
+
+}
+.top {
+    margin: 60px auto;
+    margin-bottom: 0;
+    width: 68%;
+    text-align: center;
+}
+.top .a_h1 {
+    text-align: center;
+    margin: 0 0 18px;
+}
+.a_p{
+    letter-spacing: 1px;
+    line-height: 26px;
+    font-size: 16px;
+    color: rgb(117, 111, 111);
+}
+/* about end */
+/* logo start */
+.logo {
+    text-align: center;
+    margin-top: 50px;
+    
+}
+.logo i{
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+.logo h3{
+    font-size: 20px;
+}
+.logo p{
+    color: rgb(87, 75, 75);
+}
+/* logo end */
